@@ -2,6 +2,10 @@
 
 Projeto didático para Android Studio, inspirado na apostila **Loja Online Simples com Flutter e Dart**.
 
+ - Prof. Alexandre Garcez Vieira
+ - Escola Técnica Estadual Juscelino Kubitschek de Oliveira
+ - Diadema / SP
+
 ## O que o app demonstra
 
 - Página Inicial com botões **Ver Produtos** e **Carrinho**.
@@ -39,7 +43,6 @@ flutter run
 lib/main.dart             Código completo do aplicativo
 assets/products.json      Inventário externo de produtos
 pubspec.yaml              Configuração do projeto Flutter
-CODEX_PROMPT.md           Prompt didático para recriar/estudar o app no Codex
 ```
 
 ## Observação pedagógica
