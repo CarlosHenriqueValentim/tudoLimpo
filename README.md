@@ -1,10 +1,10 @@
-# Loja Online Simples — Flutter/Dart
+# Loja de Higiene Pessoal ( TudoLimpo TL ) — Flutter/Dart
 
 Projeto didático para Android Studio, inspirado na apostila **Loja Online Simples com Flutter e Dart**.
 
- - Prof. Alexandre Garcez Vieira
- - Escola Técnica Estadual Juscelino Kubitschek de Oliveira
- - Diadema / SP
+ - Aluno: Carlos Henrique Valentim Silva
+ - Turma: 3°DS-A
+ - Instituição: Escola Técnica Estadual Juscelino Kubitschek de Oliveira
 
 ## O que o app demonstra
 
