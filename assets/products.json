@@ -1,47 +1,92 @@
 [
   {
-    "id": "1001",
-    "name": "Fone de Ouvido Bluetooth",
-    "price": 199.9,
-    "stock": 28,
-    "icon": "headphones",
-    "shortDescription": "Som de alta qualidade com conexão estável.",
-    "longDescription": "Fone sem fio com almofadas confortáveis, bateria de longa duração e conexão Bluetooth estável. Ideal para estudar, assistir aulas on-line e ouvir músicas com boa qualidade sonora."
+    "id": "2001",
+    "name": "Sabonete Líquido Neutro",
+    "price": 15.90,
+    "stock": 150,
+    "icon": "soap",
+    "shortDescription": "Higiene completa e delicada para toda a família.",
+    "longDescription": "Sabonete líquido neutro com pH balanceado, ideal para limpeza diária. Hipoalergênico, não resseca a pele e é recomendado por dermatologistas. Frasco de 250ml com dosador prático."
   },
   {
-    "id": "1002",
-    "name": "Smartwatch Fit X",
-    "price": 299.9,
-    "stock": 15,
-    "icon": "watch",
-    "shortDescription": "Monitoramento de saúde e notificações no pulso.",
-    "longDescription": "Relógio inteligente com monitoramento de batimentos, atividades físicas, notificações de aplicativos e bateria de longa duração. Excelente para estudantes acompanharem rotina, estudos e atividades diárias."
+    "id": "2002",
+    "name": "Escova de Dentes Macia",
+    "price": 8.50,
+    "stock": 200,
+    "icon": "toothbrush",
+    "shortDescription": "Cerdas macias para limpeza perfeita.",
+    "longDescription": "Escova de dentes com cerdas macias e arredondadas, design ergonômico para melhor conforto. Recomendada para uso diário e indicada por odontologistas. Cada pacote contém 1 unidade."
   },
   {
-    "id": "1003",
-    "name": "Caixa de Som Inteligente",
-    "price": 149.9,
-    "stock": 32,
-    "icon": "speaker",
-    "shortDescription": "Potência e graves para qualquer ocasião.",
-    "longDescription": "Caixa de som compacta com áudio potente, visual moderno e conexão sem fio. Pode ser usada em apresentações escolares, atividades em grupo e momentos de lazer."
+    "id": "2003",
+    "name": "Fio Dental Mentolado",
+    "price": 12.50,
+    "stock": 120,
+    "icon": "floss",
+    "shortDescription": "Limpeza profunda entre os dentes.",
+    "longDescription": "Fio dental com sabor de menta, eficaz na remoção de placa bacteriana. Resistente e suave nas gengivas. Carretel com 50 metros de fio dental de alta qualidade."
   },
   {
-    "id": "1004",
-    "name": "Mouse Gamer RGB",
-    "price": 129.9,
-    "stock": 40,
-    "icon": "mouse",
-    "shortDescription": "Alta precisão e iluminação RGB.",
-    "longDescription": "Mouse com sensor preciso, botões laterais e iluminação RGB. Indicado para projetos de programação, jogos educativos e uso em laboratórios de informática."
+    "id": "2004",
+    "name": "Creme Dental Branqueador",
+    "price": 18.90,
+    "stock": 180,
+    "icon": "toothpaste",
+    "shortDescription": "Branqueamento seguro e progressivo.",
+    "longDescription": "Creme dental com flúor e componentes branqueadores, ajuda a remover manchas superficiais. Fortalece o esmalte e previne cáries. Tubo com 90g para uso regular."
   },
   {
-    "id": "1005",
-    "name": "Teclado Mecânico Compacto",
-    "price": 239.9,
-    "stock": 18,
-    "icon": "keyboard",
-    "shortDescription": "Digitação confortável para programação.",
-    "longDescription": "Teclado compacto com teclas mecânicas, resposta rápida e ótima ergonomia. Ajuda o estudante a praticar programação com mais conforto e produtividade."
+    "id": "2005",
+    "name": "Desodorante Roll-on 24h",
+    "price": 14.90,
+    "stock": 160,
+    "icon": "deodorant",
+    "shortDescription": "Proteção prolongada contra odor.",
+    "longDescription": "Desodorante roll-on antitranspirante, proteção de 24 horas com fragrância fresca e agradável. Não deixa manchas em roupas. Frasco com 50ml de fórmula dermatologicamente testada."
+  },
+  {
+    "id": "2006",
+    "name": "Shampoo Neutro 400ml",
+    "price": 22.50,
+    "stock": 140,
+    "icon": "shampoo",
+    "shortDescription": "Limpeza suave para todos os tipos de cabelo.",
+    "longDescription": "Shampoo neutro sem parabenos, adequado para limpeza diária de todos os tipos de cabelo. Deixa cabelos macios e brilhosos. Fórmula concentrada, rende bastante."
+  },
+  {
+    "id": "2007",
+    "name": "Condicionador Reparador",
+    "price": 24.90,
+    "stock": 130,
+    "icon": "conditioner",
+    "shortDescription": "Hidratação profunda e brilho intenso.",
+    "longDescription": "Condicionador com óleos naturais e proteínas, repara cabelos danificados e ressecados. Oferece hidratação profunda e deixa cabelos mais macios. Frasco com 400ml."
+  },
+  {
+    "id": "2008",
+    "name": "Enxaguante Bucal Flúor",
+    "price": 16.50,
+    "stock": 110,
+    "icon": "mouthwash",
+    "shortDescription": "Proteção anti-cáries e hálito fresco.",
+    "longDescription": "Enxaguante bucal com flúor e menta fresca, protege contra cáries e gengivite. Promove hálito fresco por até 8 horas. Frasco com 500ml para uso diário."
+  },
+  {
+    "id": "2009",
+    "name": "Absorvente Feminino Ultra",
+    "price": 19.90,
+    "stock": 95,
+    "icon": "pad",
+    "shortDescription": "Proteção máxima e conforto garantido.",
+    "longDescription": "Absorvente feminino ultra com tecnologia de absorção rápida, núcleo super absorvente e alas discretas. Oferece proteção de até 12 horas. Embalagem com 16 unidades."
+  },
+  {
+    "id": "2010",
+    "name": "Lenço Úmido Desinfetante",
+    "price": 11.90,
+    "stock": 200,
+    "icon": "wipes",
+    "shortDescription": "Higiene portátil em qualquer lugar.",
+    "longDescription": "Lenços úmidos desinfetantes com álcool, elimina 99% dos germes e bactérias. Ideal para limpeza de mãos, rosto e superfícies. Pacote com 100 lenços reutilizáveis."
   }
 ]
