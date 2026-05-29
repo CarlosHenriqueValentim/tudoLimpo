@@ -20,7 +20,7 @@ Projeto didático para Android Studio, inspirado na apostila **Loja Online Simpl
 ## Como executar no Android Studio
 
 1. Extraia o arquivo ZIP.
-2. Abra a pasta `loja_online_simples_flutter_aprimorado` no Android Studio.
+2. Abra a pasta `tudoLimpo` no Android Studio.
 3. Confirme que o Flutter SDK está configurado.
 4. Execute:
 
